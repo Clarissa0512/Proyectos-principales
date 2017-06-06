@@ -1,0 +1,106 @@
+     *{
+        box-sizing: border-box;}
+
+   
+    body{
+	    background-image: url(images/fondo.png);
+		font-size: 20px;}
+
+	video {
+        max-width: 100%;
+        height: auto;
+		text-align: center;}
+		
+	.wrapper{
+		padding: 10px;
+		max-width: 100%;
+		height: auto;
+		border: 1px solid #000000;
+		background-color: #ffffff;}
+		
+	header{
+		width: 100%;
+		height: auto;}
+
+   
+	a:link{
+		color: rgb(100, 100, 90);
+		text-decoration: none;}
+
+		
+	a:visited{
+		color: rgb(100, 100, 90);}
+		
+	a:active{
+		color: white;
+		text-decoration:none;}	
+		
+	a:link{
+		color: rgb(100, 100, 90);
+		text-decoration: none;}
+	
+	a:hover{
+		color: #985d6a;
+		background-color: #efefef;}
+		
+		
+	#izquierda{
+        width: 200px;
+        height: auto;
+	    float: left;
+		border-right: 1px solid rgb(100, 100, 90);
+		margin-left: 5px;
+		text-align: left;
+		padding-right: 10px;
+		padding-left: 10px;}		
+
+	p{
+		padding-right: 10px;}
+
+	img{
+		max-width: 100%;
+		height: auto;}	
+	
+	.titulos{
+         background-color: #9933cc;
+         color: #ffffff;
+         padding: 5px;
+		 text-align: center;
+		 width: 100%;}
+		 
+	.img2{
+		float: left;
+		margin-left: 15px;}
+		
+	.parrafos{
+		width: 1000px;
+		height: 300px; 
+		float: left;
+		margin-left: 15px;}
+
+	.img3{
+		float: right;
+		margin-left: 15px;}
+		
+	.videos{
+		max-width: 100%;
+		height: auto;
+		border: 2px solid gray;
+		float: right;
+		padding: 10px;
+		background-image: url("images/fondo.jpg");}	
+		
+	b{
+		float: left;
+		padding-left: 60px;
+		padding-right: 60px;
+		padding-bottom: 25px;
+		padding-top: 25px;}
+		
+	#mia{
+		float: left;}
+		
+	footer{
+		font-size: 100%;
+		padding: 7px 0px 0px 20px;
+		background-color: gray;}
